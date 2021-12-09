@@ -1,6 +1,6 @@
 body{
     padding-top: 80px;
-    background-image: url("../Images/background.svg");
+    background-image: url("../images/background.svg");
     
 }
 .line{
@@ -465,6 +465,7 @@ body{
         gap: 20px;
     }
 }
+
 @media(max-width: 460px){
     .dede .custnav{
         gap: 11%;
@@ -481,6 +482,12 @@ body{
       width: 100%;
     gap: 1px;
 }
+}
+@media(max-width: 338px) {
+    .eere{
+        margin-left: 0px;
+    }
+    
 }
 @media(max-width: 319px){
     .custnav{
