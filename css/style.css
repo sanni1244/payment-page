@@ -1,0 +1,527 @@
+body{
+    padding-top: 80px;
+    background-image: url("../Images/background.svg");
+    
+}
+.line{
+    position: absolute;
+    left: 32%;
+    bottom: 32%;
+}
+.mine{
+    bottom: 20%;    
+}
+.spacy{
+    margin-left: 4px;
+}
+.newcont{
+    padding: 10px 4px;
+    border-radius: 10px;
+    background-color: white;
+    height: 650px;
+    margin: 40px 100px;
+
+}
+
+.linky{
+    color: #000000;;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+}
+.label{
+    display: block;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    margin-top: 10px;
+}
+.actlink{
+    border-bottom: #240046 solid 4px;
+}
+.goback{
+    width: 35px;
+    margin-left: 8%;
+    margin-top: -1%;
+}
+
+.myrule{
+    height: 0px;
+    border: 1px solid #BCBBBB;
+    filter: blur(1px);
+    margin-top: -2px;
+    margin-bottom: 30px;
+}
+.custnav{
+    gap: 35%;
+    margin-left: 30px;
+}
+.content_sec{
+    margin-left: 10%;
+    font-family: roboto;
+}
+.thebox{
+    width: 42%;
+    height: 60px;
+    background: white;
+    padding: 17px;
+    font-size: 14px;
+    border: 1px solid #9180A2;
+    border-radius: 6px;
+
+}
+::-webkit-input-placeholder { /* Edge */
+    color:  #333333;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:  #333333;
+  }
+  
+  ::placeholder {
+    color:  #333333;
+    font-size: 12px;
+
+ }
+.buttons{
+    color: white;
+    width: 100px;
+    height: 38px;
+    font-size: 12px;
+    background: #240046;
+    border-radius: 7px;
+    margin-left: 40%;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    border: none;
+    
+  }
+  .nonono{
+      margin-left: 0%;
+  }
+  
+.box1{
+    background: linear-gradient(0deg, rgba(188, 187, 187, 0.03), rgba(188, 187, 187, 0.03)), #FFFFFF;
+    border: 1px solid rgba(104, 104, 104, 0.15);
+    height: 100px;
+    width: 140px;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(196, 196, 196, 0.25);
+    border-radius: 28px;
+    position: relative;
+}
+.main-cont{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.divide{
+    display: flex;
+    gap: 10px;
+}
+.ellipse{
+    fill:#C4C4C4;
+    stroke: none;
+}
+.rect{
+    fill:#C4C4C4;
+}
+
+.cards{
+    text-transform:uppercase;
+    font-size: 10px;
+    margin-left: 53px;
+    margin-top: -4px;
+    font-family: roboto;
+}
+.details{
+    width: 55%;
+    margin: auto;
+    margin-top: 30px;
+    height: 380px;
+    font-family: Nunito;
+    border-radius: 8px;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    
+}
+
+.title{
+    margin-top: 18px;
+    font-size: 8px;
+    display: block;
+    color: #858181;
+    margin-bottom: 6px;
+}
+.neww{
+    margin-top: 30px;
+}
+
+
+.toptop{
+    text-align: center;
+    text-decoration: underline;
+}
+.fff{
+    
+    text-decoration: none;
+}
+.myent{
+    border: none;
+    border-bottom: #000000 1px solid;
+    width: 40%;
+    font-family: 'Nunito', sans-serif;
+}
+.dob{
+    border: none;
+    border-bottom: #000000 2px solid;
+    width: 40px;
+    margin-right: 30px;
+    font-size: 14px;
+}
+.unabs{
+    margin-left: 50px;
+    width: 25px;
+    margin-bottom: 10px;
+}
+.movement{
+    text-align: right;
+    padding-right: 20px;
+}
+.notent{
+    width: 40%;
+    font-size: 10px;
+}
+.ton{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+}
+.notent::placeholder{
+    color: #868383;
+    font-family: 'Nunito', sans-serif;
+}
+.eee{
+    color: #797676;
+    font-size: 14px;
+}
+.eere{
+    margin-left: 30px;
+    border: none;
+    background-color: transparent
+}
+.newerhr{
+    width: 40%;
+    
+}
+.totall{
+    font-weight: 700; 
+    font-size: 25px;
+    font-family: 'Nunito', sans-serif;
+}
+.checkcir{
+    margin-top: 50px;
+    text-align: center;
+}
+.checkcir img{
+    width: 200px;
+    margin-bottom: 20px;
+}
+.mylist{
+    list-style-type: none;
+}
+
+.mytable{
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+    color: black;
+    font-size: small;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 600;
+    margin-top: 23px;
+    display: flex;
+    gap: 100px;
+}
+.mytable div{
+    margin-bottom: 9px;
+}
+
+.mybutton{
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 31px;
+
+}
+.takeite{
+    width: 100%;
+}
+
+
+.wqqw{
+    gap: 10%;
+}
+
+@media(max-width: 1140px){
+    .custnav{
+        gap: 30%;
+    }
+    
+}
+@media(max-width: 904px){
+    .custnav{
+        gap: 26%;
+    }
+    .buttons{
+        margin-top: 20px;
+    }
+    .myent{
+        width: 50%;
+    }
+}
+@media(max-width: 850px){
+    
+.nomores{
+    width: 80%;
+}
+} 
+@media(max-width: 800px){
+    .main-cont{
+        display: initial;
+        text-align: center;
+    }
+    .myent{
+        width: 50%;
+    }
+    .higher{
+        height: 800px;
+    }
+    .divide{
+        display: flex;
+        column-gap: 80px;
+        padding-left: 100px;
+        padding-bottom: 30px;
+    }
+    .mytable{
+        width: 80%;
+        margin: auto;
+    }
+  
+    .custnav{
+        gap: 22%;
+    }
+.unabs{
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+    .cards{
+        margin-top: 4px;
+        margin-left: 20px;
+    }
+}
+@media (max-width: 716px){
+    .custnav{
+        gap: 17%;
+    }
+}
+@media(max-width: 700px){
+    .custnav{
+        gap: 16%;
+        margin-left: 0px;
+
+    }
+    .myent{
+        width: 80%;
+    }
+    .divide{
+        display: flex;
+        column-gap: 20px;
+    }
+    .thebox{
+        width: 50%;
+    }
+    .buttons{
+        margin-left: 10%;
+        
+      } 
+     
+.notent{
+    width: 56%;
+    font-size: 10px;
+}
+.block{
+    display: block;
+}
+
+
+}
+@media(max-width: 635px){
+    
+    .nomores{
+        width: 90%;
+    }
+    } 
+@media(max-width: 600px){
+    .custnav{
+        gap: 13%;
+    }
+    .dede{
+        margin: 0px;  
+        padding: 0px;
+    }
+    .dede .custnav{
+        gap: 25%
+    }
+    
+    .main-cont{
+        gap: 10px;
+        justify-content: initial;
+    }
+    .divide{
+        gap: 10px;
+    }}
+@media(max-width: 575px){
+    
+        .nomores{
+            width: 100%;}}
+@media(max-width: 550px){
+    .dede .custnav{
+        gap: 23%;
+        
+    }
+    .newcont{
+        margin: 0px;
+    }
+    
+}
+@media(max-width: 510px){
+        
+        .newcont{
+            margin: 0px;
+        }
+        .custnav{
+            gap: 22%;
+        }
+        body{
+            padding-top: 0px;
+        }
+        
+        
+}
+@media(max-width: 493px){
+    .dede .custnav{
+        gap: 21%;
+   }
+   .mytable{
+       gap: 50px;
+   }
+}
+@media(max-width: 468px){
+    .custnav{
+        gap: 15%;
+   }}
+@media(max-width: 460px){
+    .dede .custnav{
+        gap: 19%;
+   }}
+@media(max-width: 430px){
+    .dede .custnav{
+        gap: 16%;
+   }
+   
+    
+}
+@media(max-width: 381px){
+    .custnav{
+        gap: 12%;
+    }
+    .thebox{
+        display: block;
+        width: 90%;
+    }
+    .buttons{
+      margin-top: 10px;
+    }
+    .divide{
+        display: initial;
+        position: relative;
+    }
+    .higher{
+        height: 1100px;
+    }
+    .secdets{
+        width: 100%;
+        
+    }
+    .mytable{
+        gap: 20px;
+    }
+}
+@media(max-width: 460px){
+    .dede .custnav{
+        gap: 11%;
+   }}
+@media(max-width: 348px){
+   .custnav a{
+        font-size: 12px;
+   }
+   .buttons{
+    margin-left: 7%;
+    
+  }
+  .mytable{
+      width: 100%;
+    gap: 1px;
+}
+}
+@media(max-width: 319px){
+    .custnav{
+        gap: 10%
+ }
+ .chan{
+     font-size: 9px;
+ }
+ .mytable{
+     font-weight: 400px;
+     font-size: 10px;
+ }
+}
+@media(max-width: 311px){
+    .dede .custnav{
+        gap: 8%;
+   }
+   .red{
+       width: 80px;
+   }
+}
+@media(max-width: 297px){
+    .body a{ 
+        font-size: 10px;
+       }
+}
+@media(max-width: 273px){
+    .custnav{
+        gap: 7%
+ }
+}
+@media(max-width: 260px){
+    .body a{ 
+        font-size: 9px;
+       }
+       .red{
+        width: 65px;
+    }
+}
+@media(min-height: 700px){
+    body{
+        margin-top: 40px;
+    }
+}
